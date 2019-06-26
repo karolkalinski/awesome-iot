@@ -8,3 +8,7 @@ with 2 weeks retention. A daily write limit is set to 1500 operations that trans
 [ThingSpeak](https://thingspeak.com/) is the open IoT platform with MATLAB analytics
 
 [The IoT GURU](http://iotguru.live/) affordable data storage
+
+[Cloud4rpi](https://cloud4rpi.io/) MQQT and HTTP protocols supporting data storage
+
+[Plot.ly](https://plot.ly/#/) plots online with API to add data
